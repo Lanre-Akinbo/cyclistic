@@ -16,7 +16,6 @@ This repository contains the code and documentation for the Cyclistic Bike Share
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Data Exploration
 
@@ -58,9 +57,6 @@ Instructions on how to use and reproduce the analysis and dashboard are provided
 
 Contributions to this project are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE.md file for details.
 
 ---
 
