@@ -1,4 +1,4 @@
-# Cyclistic Bike Share Analysis
+# Cyclistic Bike-Share Analytics
 
 ## Overview
 
@@ -24,27 +24,27 @@ The project begins with an exploration of the dataset, detailing the meaning of 
 
 ## Data Preprocessing
 
-Data preprocessing steps are described, including date and time conversion, duration calculation, distance calculation, and additional data cleanup.
+Data preprocessing steps are described, including date and time conversion, duration calculation, distance calculation and additional data cleanup.
 
 ## Exploratory Data Analysis (EDA)
 
-The EDA section provides insights into user behavior, user type distribution, rides by day of the week and hour of the day, distribution of rides over time, average trip duration and distance, rides by ride type, top routes, most active start stations, and a station location heatmap.
+The EDA section provides insights into user behavior, user type distribution, rides by day of the week and hour of the day, distribution of rides over time, average trip duration and distance, rides by ride type, top routes, most active start stations and a station location heatmap.
 
 ## A/B Testing
 
-The A/B testing section outlines the hypothesis, experimental design, sample size calculation, significance level, and p-value calculation. It concludes with the interpretation and implications of the test results.
+The A/B testing section outlines the hypothesis, experimental design, sample size calculation, significance level and p-value calculation. It concludes with the interpretation and implications of the test results.
 
 ## Time Series Analysis with SARIMA
 
-This section provides a step-by-step explanation of the time series analysis using the Seasonal Autoregressive Integrated Moving Average (SARIMA) model. It covers data preparation, visualization, stationarity testing, differencing, seasonal decomposition, autocorrelation and partial autocorrelation analysis, grid search for hyperparameter optimization, model fitting, forecasting, and model evaluation.
+This section provides a step-by-step explanation of the time series analysis using the Seasonal Autoregressive Integrated Moving Average (SARIMA) model. It covers data preparation, visualization, stationarity testing, differencing, seasonal decomposition, autocorrelation and partial autocorrelation analysis, grid search for hyperparameter optimization, model fitting, forecasting and model evaluation.
 
 ## Dashboard
 
-A Tableau dashboard was created to visualize the key findings and insights from the analysis. The README includes a link to access the interactive dashboard.
+A Tableau dashboard was created to visualize the key findings and insights from the analysis. The interactive dashboard can be found within the project repository.
 
 ## Potential Strategies
 
-Several potential strategies are suggested based on the analysis findings, including priority access for annual members, trip duration caps, gamification, partnerships, targeted marketing campaigns, expanding the electric bike fleet, seasonal promotions, and station optimization.
+Several potential strategies are suggested based on the analysis findings, including priority access for annual members, trip duration limits, gamification, partnerships, targeted marketing campaigns, expanding the electric bike fleet, seasonal promotions and station optimization.
 
 ## Project Structure
 
