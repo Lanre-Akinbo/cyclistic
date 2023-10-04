@@ -12,7 +12,7 @@ There are several ways you can contribute to this project:
 
 2. **Enhancements and New Features**: If you have ideas for improvements or new features, feel free to open a GitHub issue to discuss your ideas. Your suggestions are welcome and I would love to collaborate with you to implement them.
 
-3. **Documentation Improvements**: If you notice any gaps or errors in the project documentation (README, code comments, etc.), please open a pull request with your proposed changes.
+3. **Documentation Improvements**: If you notice any gaps or errors in the project documentation (README, code comments etc.), please open a pull request with your proposed changes.
 
 4. **Code Contributions**: If you want to contribute code changes or enhancements, please follow the guidelines below for submitting pull requests.
 
@@ -53,10 +53,6 @@ To contribute code changes to this project, follow these steps:
 ## Code Style
 
 Please follow the existing code style and formatting used in the project. Consistency in code style makes it easier for contributors to understand and review the code.
-
-## Code of Conduct
-
-Please note that this project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to adhere to this code of conduct to ensure a respectful and inclusive environment for collaboration.
 
 ## Questions and Feedback
 
