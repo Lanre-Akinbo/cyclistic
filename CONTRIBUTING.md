@@ -25,7 +25,7 @@ To contribute code changes to this project, follow these steps:
 2. Clone your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/lanre-akinbo/cyclistic.git
+   git clone https://github.com/lanre-akinbo/cyclistic-bikeshare-analytics.git
    ```
 
 3. Create a new branch for your changes.
