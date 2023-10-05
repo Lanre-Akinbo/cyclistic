@@ -27,7 +27,7 @@ This section provides a step-by-step explanation of the time series analysis usi
 
 ## Dashboard
 
-A Tableau dashboard was created to visualize the key findings and insights from the analysis. The interactive dashboard can be found within the project repository.
+A Tableau dashboard was created to visualize the key findings and insights from the analysis. The interactive dashboard can be found within the project directory.
 
 ## Potential Strategies
 
