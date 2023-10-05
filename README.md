@@ -4,18 +4,6 @@
 
 This repository contains the code and documentation for the Cyclistic Bike Share Analysis project. The project explores bike-share ride data from Cyclistic, a bike-share program in Chicago, between July 2022 and June 2023. The analysis covers various aspects, including user behavior, ride patterns, A/B testing and time series forecasting using SARIMA.
 
-## Table of Contents
-
-- [Data Exploration](#data-exploration)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [A/B Testing](#ab-testing)
-- [Time Series Analysis with SARIMA](#time-series-analysis-with-sarima)
-- [Dashboard](#dashboard)
-- [Potential Strategies](#potential-strategies)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Data Exploration
 
@@ -57,6 +45,9 @@ Instructions on how to use and reproduce the analysis and dashboard are provided
 
 Contributions to this project are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE.txt file for details.
 
 ---
 
